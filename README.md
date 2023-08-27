@@ -1,4 +1,4 @@
-# Phython
+# Python
 
 Here you can find my homeworks as part of training.
 Assignments will not be posted by NDA agreement and because of my laziness.
